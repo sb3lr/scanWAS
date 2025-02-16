@@ -23,6 +23,7 @@ sudo apt install fping dsniff -y
 ## Usage
 Run scanWAS with root privileges:
 ```bash
+sudo chmdo +x scanWAS.sh
 sudo ./scanWAS.sh
 ```
 Enter the gateway IP when prompted, and the tool will scan the network, listing connected devices and executing **ARP spoofing** attacks.
