@@ -1,4 +1,4 @@
-# scanWAS
+# scanWAS--
 
 ## Description
 scanWAS is a network security tool designed to detect connected devices using **fping** and simulate ARP spoofing attacks with **arpspoof**. This tool helps security professionals and network administrators identify vulnerabilities and assess potential MITM attack risks.
