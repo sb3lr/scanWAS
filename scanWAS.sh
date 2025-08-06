@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # تمكين التوجيه عبر IP Forward
 echo "تمكين التوجيه عبر IP Forwarding..."
 sudo sysctl -w net.ipv4.ip_forward=1
